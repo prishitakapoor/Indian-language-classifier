@@ -1,4 +1,4 @@
-# Indian-language-classifier-master
+# Indian-language-classifier
 This repository contains classifier to distinguish which Indian 
 Language a given text contains.
 
